@@ -1,0 +1,386 @@
+D:\Project\Project in vb\Fast_Food_Management\Fast_Food_Management\bin\Debug\Fast_Food_Management.exe.config
+D:\Project\Project in vb\Fast_Food_Management\Fast_Food_Management\obj\Debug\Fast_Food_Management.vbprojResolveAssemblyReference.cache
+D:\Project\Project in vb\Fast_Food_Management\Fast_Food_Management\obj\Debug\Fast_Food_Management.Resources.resources
+D:\Project\Project in vb\Fast_Food_Management\Fast_Food_Management\obj\Debug\Fast_Food_Management.vbproj.GenerateResource.Cache
+D:\Project\Project in vb\Fast_Food_Management\Fast_Food_Management\obj\Debug\Fast_Food_Management.xml
+D:\Project\Project in vb\Fast_Food_Management\Fast_Food_Management\bin\Debug\Fast_Food_Management.exe
+D:\Project\Project in vb\Fast_Food_Management\Fast_Food_Management\bin\Debug\Fast_Food_Management.pdb
+D:\Project\Project in vb\Fast_Food_Management\Fast_Food_Management\bin\Debug\Fast_Food_Management.xml
+D:\Project\Project in vb\Fast_Food_Management\Fast_Food_Management\obj\Debug\Fast_Food_Management.exe
+D:\Project\Project in vb\Fast_Food_Management\Fast_Food_Management\obj\Debug\Fast_Food_Management.pdb
+D:\Project\Project in vb\Fast_Food_Management\Fast_Food_Management\obj\Debug\Fast_Food_Management.LoginForm.resources
+D:\Project\Project in vb\Fast_Food_Management\Fast_Food_Management\obj\Debug\Fast_Food_Management.CreateUserForm.resources
+D:\Project\Project in vb\Fast_Food_Management\Fast_Food_Management\obj\Debug\Fast_Food_Management.MainForm.resources
+D:\Project in vb\Fast_Food_Management\Fast_Food_Management\bin\Debug\Fast_Food_Management.exe.config
+D:\Project in vb\Fast_Food_Management\Fast_Food_Management\obj\Debug\Fast_Food_Management.exe
+D:\Project in vb\Fast_Food_Management\Fast_Food_Management\obj\Debug\Fast_Food_Management.xml
+D:\Project in vb\Fast_Food_Management\Fast_Food_Management\obj\Debug\Fast_Food_Management.pdb
+D:\Project in vb\Fast_Food_Management\Fast_Food_Management\bin\Debug\Fast_Food_Management.exe
+D:\Project in vb\Fast_Food_Management\Fast_Food_Management\bin\Debug\Fast_Food_Management.pdb
+D:\Project in vb\Fast_Food_Management\Fast_Food_Management\bin\Debug\Fast_Food_Management.xml
+D:\Project in vb\Fast_Food_Management\Fast_Food_Management\bin\Debug\Bunifu_UI_v1.52.dll
+D:\Project in vb\Fast_Food_Management\Fast_Food_Management\obj\Debug\Fast_Food_Management.CreateUserForm.resources
+D:\Project in vb\Fast_Food_Management\Fast_Food_Management\obj\Debug\Fast_Food_Management.MainForm.resources
+D:\Project in vb\Fast_Food_Management\Fast_Food_Management\obj\Debug\Fast_Food_Management.Resources.resources
+D:\Project in vb\Fast_Food_Management\Fast_Food_Management\obj\Debug\Fast_Food_Management.vbproj.GenerateResource.Cache
+D:\Project in vb\Fast_Food_Management\Fast_Food_Management\obj\Debug\Fast_Food_Management.Login.resources
+D:\Project in vb\Fast_Food_Management\Fast_Food_Management\obj\Debug\Fast_Food_Management.Add_Item.resources
+D:\Project in vb\Fast_Food_Management\Fast_Food_Management\obj\Debug\Fast_Food_Management.Dashboard.resources
+D:\Project in vb\Fast_Food_Management\Fast_Food_Management\obj\Debug\Fast_Food_Management.ContactUs.resources
+D:\Project in vb\Fast_Food_Management - Copy\Fast_Food_Management\bin\Debug\Fast_Food_Management.exe.config
+D:\Project in vb\Fast_Food_Management - Copy\Fast_Food_Management\obj\Debug\Fast_Food_Management.exe
+D:\Project in vb\Fast_Food_Management - Copy\Fast_Food_Management\obj\Debug\Fast_Food_Management.xml
+D:\Project in vb\Fast_Food_Management - Copy\Fast_Food_Management\obj\Debug\Fast_Food_Management.pdb
+D:\Project in vb\Fast_Food_Management - Copy\Fast_Food_Management\bin\Debug\DBForFoodManagement.mdb
+D:\Project in vb\Fast_Food_Management - Copy\Fast_Food_Management\bin\Debug\Fast_Food_Management.exe
+D:\Project in vb\Fast_Food_Management - Copy\Fast_Food_Management\bin\Debug\Fast_Food_Management.pdb
+D:\Project in vb\Fast_Food_Management - Copy\Fast_Food_Management\bin\Debug\Fast_Food_Management.xml
+D:\Project in vb\Fast_Food_Management - Copy\Fast_Food_Management\bin\Debug\Bunifu_UI_v1.52.dll
+D:\Project in vb\Fast_Food_Management - Copy\Fast_Food_Management\obj\Debug\Fast_Food_Management.vbprojResolveAssemblyReference.cache
+D:\Project in vb\Fast_Food_Management - Copy\Fast_Food_Management\obj\Debug\Fast_Food_Management.Add_Item.resources
+D:\Project in vb\Fast_Food_Management - Copy\Fast_Food_Management\obj\Debug\Fast_Food_Management.ContactUs.resources
+D:\Project in vb\Fast_Food_Management - Copy\Fast_Food_Management\obj\Debug\Fast_Food_Management.CreateUserForm.resources
+D:\Project in vb\Fast_Food_Management - Copy\Fast_Food_Management\obj\Debug\Fast_Food_Management.Dashboard.resources
+D:\Project in vb\Fast_Food_Management - Copy\Fast_Food_Management\obj\Debug\Fast_Food_Management.Login.resources
+D:\Project in vb\Fast_Food_Management - Copy\Fast_Food_Management\obj\Debug\Fast_Food_Management.MainForm.resources
+D:\Project in vb\Fast_Food_Management - Copy\Fast_Food_Management\obj\Debug\Fast_Food_Management.Resources.resources
+D:\Project in vb\Fast_Food_Management - Copy\Fast_Food_Management\obj\Debug\Fast_Food_Management.vbproj.GenerateResource.Cache
+D:\Project in vb\Fast_Food_Management - Copy\Fast_Food_Management\obj\Debug\Fast_Food_Management.DailyRecords.resources
+D:\Project in vb\Fast_Food_Management - Copy\Fast_Food_Management\obj\Debug\Fast_Food_Management.Userinfo.resources
+D:\Project in vb\Fast_Food_Management\Fast_Food_Management\obj\Debug\Fast_Food_Management.DailyRecords.resources
+D:\Project in vb\Fast_Food_Management\Fast_Food_Management\obj\Debug\Fast_Food_Management.Userinfo.resources
+D:\Project in vb\Fast_Food_Management\Fast_Food_Management\obj\Debug\Fast_Food_Management.MonthlyData.resources
+D:\Project in vb\Fast_Food_Management\Fast_Food_Management\bin\Debug\Telerik.WinControls.dll
+D:\Project in vb\Fast_Food_Management\Fast_Food_Management\bin\Debug\Telerik.WinControls.UI.dll
+D:\Project in vb\Fast_Food_Management\Fast_Food_Management\bin\Debug\TelerikCommon.dll
+D:\Project in vb\Fast_Food_Management\Fast_Food_Management\bin\Debug\Telerik.WinControls.xml
+D:\Project in vb\Fast_Food_Management\Fast_Food_Management\bin\Debug\Telerik.WinControls.UI.xml
+D:\Project in vb\Fast_Food_Management\Fast_Food_Management\obj\Debug\Fast_Food_Management.exe.licenses
+D:\Project in vb\Fast_Food_Management\Fast_Food_Management\bin\Debug\Telerik.WinControls.ChartView.dll
+D:\Project in vb\Fast_Food_Management\Fast_Food_Management\bin\Debug\Telerik.WinControls.GridView.dll
+D:\Project in vb\Fast_Food_Management\Fast_Food_Management\bin\Debug\Telerik.WinControls.ChartView.xml
+D:\Project in vb\Fast_Food_Management\Fast_Food_Management\bin\Debug\Telerik.WinControls.GridView.xml
+D:\Project in vb\Fast_Food_Management\Fast_Food_Management\obj\Debug\Fast_Food_Management.OnlyUserRecord.resources
+D:\Project in vb\Fast_Food_Management\Fast_Food_Management\bin\Debug\Telerik.WinControls.RadDiagram.dll
+D:\Project in vb\Fast_Food_Management\Fast_Food_Management\bin\Debug\Telerik.WinControls.RadDiagram.xml
+D:\Project in vb\Fast_Food_Management\Fast_Food_Management\bin\Debug\Telerik.WinControls.Themes.TelerikMetro.dll
+D:\Project in vb\Fast_Food_Management\Fast_Food_Management\bin\Debug\Telerik.WinControls.Themes.Office2010Black.dll
+D:\Project in vb\Fast_Food_Management\Fast_Food_Management\obj\Debug\Fast_Food_Management.productDetail.resources
+D:\Project in vb\Fast_Food_Management\Fast_Food_Management\obj\Debug\Fast_Food_Management.ProductSuppliesBySpecificSupplier.resources
+D:\Project in vb\Fast_Food_Management\Fast_Food_Management\obj\Debug\Fast_Food_Management.AddSupplier.resources
+D:\Project in vb\Fast_Food_Management\Fast_Food_Management\obj\Debug\Fast_Food_Management.SupplierInfo.resources
+D:\Project in vb\Fast_Food_Management\Fast_Food_Management\obj\Debug\Fast_Food_Management.SuppliedRecord.resources
+D:\Project in vb\Fast_Food_Management\Fast_Food_Management\obj\Debug\Fast_Food_Management.BuySupply.resources
+D:\Project in vb\Fast_Food_Management\Fast_Food_Management\obj\Debug\Fast_Food_Management.SupplierDailyRecord.resources
+D:\Project in vb\Fast_Food_Management\Fast_Food_Management\bin\Debug\Telerik.WinControls.Themes.Office2007Black.dll
+D:\Project in vb\Fast_Food_Management\Fast_Food_Management\obj\Debug\Fast_Food_Management.DashboardAdmin.resources
+D:\Project in vb\Fast_Food_Management\Fast_Food_Management\obj\Debug\Fast_Food_Management.vbprojResolveAssemblyReference.cache
+D:\Project in vb\Fast_Food_Management\Fast_Food_Management\obj\Debug\Fast_Food_Management.TrustInfo.xml
+D:\Project in vb\Fast_Food_Management\Fast_Food_Management\bin\Debug\Fast_Food_Management.exe.manifest
+D:\Project in vb\Fast_Food_Management\Fast_Food_Management\bin\Debug\Fast_Food_Management.application
+D:\Project in vb\Fast_Food_Management\Fast_Food_Management\obj\Debug\Fast_Food_Management.exe.manifest
+D:\Project in vb\Fast_Food_Management\Fast_Food_Management\obj\Debug\Fast_Food_Management.application
+F:\New folder\Fast_Food_Management\Fast_Food_Management\bin\Debug\Fast_Food_Management.exe.config
+F:\New folder\Fast_Food_Management\Fast_Food_Management\obj\Debug\Fast_Food_Management.exe
+F:\New folder\Fast_Food_Management\Fast_Food_Management\obj\Debug\Fast_Food_Management.xml
+F:\New folder\Fast_Food_Management\Fast_Food_Management\obj\Debug\Fast_Food_Management.pdb
+F:\New folder\Fast_Food_Management\Fast_Food_Management\bin\Debug\Fast_Food_Management.exe.manifest
+F:\New folder\Fast_Food_Management\Fast_Food_Management\bin\Debug\Fast_Food_Management.application
+F:\New folder\Fast_Food_Management\Fast_Food_Management\bin\Debug\Fast_Food_Management.exe
+F:\New folder\Fast_Food_Management\Fast_Food_Management\bin\Debug\Fast_Food_Management.pdb
+F:\New folder\Fast_Food_Management\Fast_Food_Management\bin\Debug\Fast_Food_Management.xml
+F:\New folder\Fast_Food_Management\Fast_Food_Management\bin\Debug\Telerik.WinControls.ChartView.dll
+F:\New folder\Fast_Food_Management\Fast_Food_Management\bin\Debug\Telerik.WinControls.dll
+F:\New folder\Fast_Food_Management\Fast_Food_Management\bin\Debug\Telerik.WinControls.GridView.dll
+F:\New folder\Fast_Food_Management\Fast_Food_Management\bin\Debug\Telerik.WinControls.RadDiagram.dll
+F:\New folder\Fast_Food_Management\Fast_Food_Management\bin\Debug\Telerik.WinControls.Themes.Office2007Black.dll
+F:\New folder\Fast_Food_Management\Fast_Food_Management\bin\Debug\Telerik.WinControls.Themes.Office2010Black.dll
+F:\New folder\Fast_Food_Management\Fast_Food_Management\bin\Debug\Telerik.WinControls.Themes.TelerikMetro.dll
+F:\New folder\Fast_Food_Management\Fast_Food_Management\bin\Debug\Telerik.WinControls.UI.dll
+F:\New folder\Fast_Food_Management\Fast_Food_Management\bin\Debug\TelerikCommon.dll
+F:\New folder\Fast_Food_Management\Fast_Food_Management\bin\Debug\Telerik.WinControls.xml
+F:\New folder\Fast_Food_Management\Fast_Food_Management\bin\Debug\Telerik.WinControls.ChartView.xml
+F:\New folder\Fast_Food_Management\Fast_Food_Management\bin\Debug\Telerik.WinControls.GridView.xml
+F:\New folder\Fast_Food_Management\Fast_Food_Management\bin\Debug\Telerik.WinControls.RadDiagram.xml
+F:\New folder\Fast_Food_Management\Fast_Food_Management\bin\Debug\Telerik.WinControls.UI.xml
+F:\New folder\Fast_Food_Management\Fast_Food_Management\obj\Debug\Fast_Food_Management.vbprojResolveAssemblyReference.cache
+F:\New folder\Fast_Food_Management\Fast_Food_Management\obj\Debug\Fast_Food_Management.Add_Item.resources
+F:\New folder\Fast_Food_Management\Fast_Food_Management\obj\Debug\Fast_Food_Management.AddSupplier.resources
+F:\New folder\Fast_Food_Management\Fast_Food_Management\obj\Debug\Fast_Food_Management.BuySupply.resources
+F:\New folder\Fast_Food_Management\Fast_Food_Management\obj\Debug\Fast_Food_Management.ContactUs.resources
+F:\New folder\Fast_Food_Management\Fast_Food_Management\obj\Debug\Fast_Food_Management.CreateUserForm.resources
+F:\New folder\Fast_Food_Management\Fast_Food_Management\obj\Debug\Fast_Food_Management.DailyRecords.resources
+F:\New folder\Fast_Food_Management\Fast_Food_Management\obj\Debug\Fast_Food_Management.Dashboard.resources
+F:\New folder\Fast_Food_Management\Fast_Food_Management\obj\Debug\Fast_Food_Management.DashboardAdmin.resources
+F:\New folder\Fast_Food_Management\Fast_Food_Management\obj\Debug\Fast_Food_Management.Login.resources
+F:\New folder\Fast_Food_Management\Fast_Food_Management\obj\Debug\Fast_Food_Management.MainForm.resources
+F:\New folder\Fast_Food_Management\Fast_Food_Management\obj\Debug\Fast_Food_Management.MonthlyData.resources
+F:\New folder\Fast_Food_Management\Fast_Food_Management\obj\Debug\Fast_Food_Management.Resources.resources
+F:\New folder\Fast_Food_Management\Fast_Food_Management\obj\Debug\Fast_Food_Management.OnlyUserRecord.resources
+F:\New folder\Fast_Food_Management\Fast_Food_Management\obj\Debug\Fast_Food_Management.productDetail.resources
+F:\New folder\Fast_Food_Management\Fast_Food_Management\obj\Debug\Fast_Food_Management.ProductSuppliesBySpecificSupplier.resources
+F:\New folder\Fast_Food_Management\Fast_Food_Management\obj\Debug\Fast_Food_Management.SuppliedRecord.resources
+F:\New folder\Fast_Food_Management\Fast_Food_Management\obj\Debug\Fast_Food_Management.SupplierDailyRecord.resources
+F:\New folder\Fast_Food_Management\Fast_Food_Management\obj\Debug\Fast_Food_Management.SupplierInfo.resources
+F:\New folder\Fast_Food_Management\Fast_Food_Management\obj\Debug\Fast_Food_Management.UserInfo.resources
+F:\New folder\Fast_Food_Management\Fast_Food_Management\obj\Debug\Fast_Food_Management.vbproj.GenerateResource.Cache
+F:\New folder\Fast_Food_Management\Fast_Food_Management\obj\Debug\Fast_Food_Management.exe.licenses
+F:\New folder\Fast_Food_Management\Fast_Food_Management\obj\Debug\Fast_Food_Management.TrustInfo.xml
+F:\New folder\Fast_Food_Management\Fast_Food_Management\obj\Debug\Fast_Food_Management.exe.manifest
+F:\New folder\Fast_Food_Management\Fast_Food_Management\obj\Debug\Fast_Food_Management.application
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\Fast_Food_Management.exe.config
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\obj\Debug\Fast_Food_Management.exe
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\obj\Debug\Fast_Food_Management.xml
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\obj\Debug\Fast_Food_Management.pdb
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\Fast_Food_Management.exe.manifest
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\Fast_Food_Management.application
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\Fast_Food_Management.exe
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\Fast_Food_Management.pdb
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\Fast_Food_Management.xml
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\AForge.Video.dll
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\Telerik.WinControls.ChartView.dll
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\Telerik.WinControls.dll
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\Telerik.WinControls.GridView.dll
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\Telerik.WinControls.RadDiagram.dll
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\Telerik.WinControls.Themes.Office2007Black.dll
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\Telerik.WinControls.Themes.Office2010Black.dll
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\Telerik.WinControls.Themes.TelerikMetro.dll
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\Telerik.WinControls.UI.dll
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\TelerikCommon.dll
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\Telerik.WinControls.xml
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\Telerik.WinControls.ChartView.xml
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\Telerik.WinControls.GridView.xml
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\Telerik.WinControls.RadDiagram.xml
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\Telerik.WinControls.UI.xml
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\obj\Debug\Fast_Food_Management.vbprojResolveAssemblyReference.cache
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\obj\Debug\Fast_Food_Management.Add_Item.resources
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\obj\Debug\Fast_Food_Management.AddSupplier.resources
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\obj\Debug\Fast_Food_Management.BuySupply.resources
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\obj\Debug\Fast_Food_Management.CaptureByCamera.resources
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\obj\Debug\Fast_Food_Management.ContactUs.resources
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\obj\Debug\Fast_Food_Management.CreateUserForm.resources
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\obj\Debug\Fast_Food_Management.DailyRecords.resources
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\obj\Debug\Fast_Food_Management.Dashboard.resources
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\obj\Debug\Fast_Food_Management.DashboardAdmin.resources
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\obj\Debug\Fast_Food_Management.Login.resources
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\obj\Debug\Fast_Food_Management.MainForm.resources
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\obj\Debug\Fast_Food_Management.MonthlyData.resources
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\obj\Debug\Fast_Food_Management.Resources.resources
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\obj\Debug\Fast_Food_Management.OnlyUserRecord.resources
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\obj\Debug\Fast_Food_Management.productDetail.resources
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\obj\Debug\Fast_Food_Management.ProductSuppliesBySpecificSupplier.resources
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\obj\Debug\Fast_Food_Management.SuppliedRecord.resources
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\obj\Debug\Fast_Food_Management.SupplierDailyRecord.resources
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\obj\Debug\Fast_Food_Management.SupplierInfo.resources
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\obj\Debug\Fast_Food_Management.UserInfo.resources
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\obj\Debug\Fast_Food_Management.vbproj.GenerateResource.Cache
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\obj\Debug\Fast_Food_Management.exe.licenses
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\obj\Debug\Fast_Food_Management.TrustInfo.xml
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\obj\Debug\Fast_Food_Management.exe.manifest
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\obj\Debug\Fast_Food_Management.application
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\obj\Debug\Fast_Food_Management.SelectImageGetFrom.resources
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\AForge.Video.FFMPEG.dll
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\AForge.Video.Kinect.dll
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\AForge.Video.VFW.dll
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\AForge.Video.Ximea.dll
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\Accord.dll
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\Accord.Imaging.dll
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\Accord.MachineLearning.dll
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\Accord.Math.dll
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\Accord.Statistics.dll
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\Accord.Vision.dll
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\AForge.dll
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\AForge.Imaging.dll
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\AForge.Math.dll
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\Accord.xml
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\Accord.Imaging.xml
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\Accord.MachineLearning.xml
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\Accord.Math.xml
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\Accord.Statistics.xml
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\Accord.Vision.xml
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\AForge.xml
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\AForge.Imaging.xml
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\AForge.Math.xml
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\obj\Debug\Fast_Food_Management.Print.resources
+C:\Users\Mr.Silent\Downloads\New folder\Fast_Food_Management\bin\Debug\Fast_Food_Management.exe.config
+C:\Users\Mr.Silent\Downloads\New folder\Fast_Food_Management\obj\Debug\Fast_Food_Management.exe
+C:\Users\Mr.Silent\Downloads\New folder\Fast_Food_Management\obj\Debug\Fast_Food_Management.xml
+C:\Users\Mr.Silent\Downloads\New folder\Fast_Food_Management\obj\Debug\Fast_Food_Management.pdb
+C:\Users\Mr.Silent\Downloads\New folder\Fast_Food_Management\bin\Debug\Fast_Food_Management.exe.manifest
+C:\Users\Mr.Silent\Downloads\New folder\Fast_Food_Management\bin\Debug\Fast_Food_Management.application
+C:\Users\Mr.Silent\Downloads\New folder\Fast_Food_Management\bin\Debug\Fast_Food_Management.exe
+C:\Users\Mr.Silent\Downloads\New folder\Fast_Food_Management\bin\Debug\Fast_Food_Management.pdb
+C:\Users\Mr.Silent\Downloads\New folder\Fast_Food_Management\bin\Debug\Fast_Food_Management.xml
+C:\Users\Mr.Silent\Downloads\New folder\Fast_Food_Management\bin\Debug\Accord.dll
+C:\Users\Mr.Silent\Downloads\New folder\Fast_Food_Management\bin\Debug\Accord.Imaging.dll
+C:\Users\Mr.Silent\Downloads\New folder\Fast_Food_Management\bin\Debug\Accord.MachineLearning.dll
+C:\Users\Mr.Silent\Downloads\New folder\Fast_Food_Management\bin\Debug\Accord.Math.dll
+C:\Users\Mr.Silent\Downloads\New folder\Fast_Food_Management\bin\Debug\Accord.Statistics.dll
+C:\Users\Mr.Silent\Downloads\New folder\Fast_Food_Management\bin\Debug\Accord.Vision.dll
+C:\Users\Mr.Silent\Downloads\New folder\Fast_Food_Management\bin\Debug\AForge.dll
+C:\Users\Mr.Silent\Downloads\New folder\Fast_Food_Management\bin\Debug\AForge.Imaging.dll
+C:\Users\Mr.Silent\Downloads\New folder\Fast_Food_Management\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Mr.Silent\Downloads\New folder\Fast_Food_Management\bin\Debug\AForge.Video.dll
+C:\Users\Mr.Silent\Downloads\New folder\Fast_Food_Management\bin\Debug\AForge.Video.FFMPEG.dll
+C:\Users\Mr.Silent\Downloads\New folder\Fast_Food_Management\bin\Debug\AForge.Video.Kinect.dll
+C:\Users\Mr.Silent\Downloads\New folder\Fast_Food_Management\bin\Debug\AForge.Video.VFW.dll
+C:\Users\Mr.Silent\Downloads\New folder\Fast_Food_Management\bin\Debug\AForge.Video.Ximea.dll
+C:\Users\Mr.Silent\Downloads\New folder\Fast_Food_Management\bin\Debug\Telerik.WinControls.ChartView.dll
+C:\Users\Mr.Silent\Downloads\New folder\Fast_Food_Management\bin\Debug\Telerik.WinControls.dll
+C:\Users\Mr.Silent\Downloads\New folder\Fast_Food_Management\bin\Debug\Telerik.WinControls.GridView.dll
+C:\Users\Mr.Silent\Downloads\New folder\Fast_Food_Management\bin\Debug\Telerik.WinControls.RadDiagram.dll
+C:\Users\Mr.Silent\Downloads\New folder\Fast_Food_Management\bin\Debug\Telerik.WinControls.Themes.Office2007Black.dll
+C:\Users\Mr.Silent\Downloads\New folder\Fast_Food_Management\bin\Debug\Telerik.WinControls.Themes.Office2010Black.dll
+C:\Users\Mr.Silent\Downloads\New folder\Fast_Food_Management\bin\Debug\Telerik.WinControls.Themes.TelerikMetro.dll
+C:\Users\Mr.Silent\Downloads\New folder\Fast_Food_Management\bin\Debug\Telerik.WinControls.UI.dll
+C:\Users\Mr.Silent\Downloads\New folder\Fast_Food_Management\bin\Debug\TelerikCommon.dll
+C:\Users\Mr.Silent\Downloads\New folder\Fast_Food_Management\bin\Debug\AForge.Math.dll
+C:\Users\Mr.Silent\Downloads\New folder\Fast_Food_Management\bin\Debug\Accord.xml
+C:\Users\Mr.Silent\Downloads\New folder\Fast_Food_Management\bin\Debug\Accord.Imaging.xml
+C:\Users\Mr.Silent\Downloads\New folder\Fast_Food_Management\bin\Debug\Accord.MachineLearning.xml
+C:\Users\Mr.Silent\Downloads\New folder\Fast_Food_Management\bin\Debug\Accord.Math.xml
+C:\Users\Mr.Silent\Downloads\New folder\Fast_Food_Management\bin\Debug\Accord.Statistics.xml
+C:\Users\Mr.Silent\Downloads\New folder\Fast_Food_Management\bin\Debug\Accord.Vision.xml
+C:\Users\Mr.Silent\Downloads\New folder\Fast_Food_Management\bin\Debug\AForge.xml
+C:\Users\Mr.Silent\Downloads\New folder\Fast_Food_Management\bin\Debug\AForge.Imaging.xml
+C:\Users\Mr.Silent\Downloads\New folder\Fast_Food_Management\bin\Debug\Telerik.WinControls.xml
+C:\Users\Mr.Silent\Downloads\New folder\Fast_Food_Management\bin\Debug\Telerik.WinControls.ChartView.xml
+C:\Users\Mr.Silent\Downloads\New folder\Fast_Food_Management\bin\Debug\Telerik.WinControls.GridView.xml
+C:\Users\Mr.Silent\Downloads\New folder\Fast_Food_Management\bin\Debug\Telerik.WinControls.RadDiagram.xml
+C:\Users\Mr.Silent\Downloads\New folder\Fast_Food_Management\bin\Debug\Telerik.WinControls.UI.xml
+C:\Users\Mr.Silent\Downloads\New folder\Fast_Food_Management\bin\Debug\AForge.Math.xml
+C:\Users\Mr.Silent\Downloads\New folder\Fast_Food_Management\obj\Debug\Fast_Food_Management.vbprojResolveAssemblyReference.cache
+C:\Users\Mr.Silent\Downloads\New folder\Fast_Food_Management\obj\Debug\Fast_Food_Management.Add_Item.resources
+C:\Users\Mr.Silent\Downloads\New folder\Fast_Food_Management\obj\Debug\Fast_Food_Management.AddSupplier.resources
+C:\Users\Mr.Silent\Downloads\New folder\Fast_Food_Management\obj\Debug\Fast_Food_Management.BuySupply.resources
+C:\Users\Mr.Silent\Downloads\New folder\Fast_Food_Management\obj\Debug\Fast_Food_Management.CaptureByCamera.resources
+C:\Users\Mr.Silent\Downloads\New folder\Fast_Food_Management\obj\Debug\Fast_Food_Management.ContactUs.resources
+C:\Users\Mr.Silent\Downloads\New folder\Fast_Food_Management\obj\Debug\Fast_Food_Management.CreateUserForm.resources
+C:\Users\Mr.Silent\Downloads\New folder\Fast_Food_Management\obj\Debug\Fast_Food_Management.DailyRecords.resources
+C:\Users\Mr.Silent\Downloads\New folder\Fast_Food_Management\obj\Debug\Fast_Food_Management.Dashboard.resources
+C:\Users\Mr.Silent\Downloads\New folder\Fast_Food_Management\obj\Debug\Fast_Food_Management.DashboardAdmin.resources
+C:\Users\Mr.Silent\Downloads\New folder\Fast_Food_Management\obj\Debug\Fast_Food_Management.Login.resources
+C:\Users\Mr.Silent\Downloads\New folder\Fast_Food_Management\obj\Debug\Fast_Food_Management.MainForm.resources
+C:\Users\Mr.Silent\Downloads\New folder\Fast_Food_Management\obj\Debug\Fast_Food_Management.MonthlyData.resources
+C:\Users\Mr.Silent\Downloads\New folder\Fast_Food_Management\obj\Debug\Fast_Food_Management.Resources.resources
+C:\Users\Mr.Silent\Downloads\New folder\Fast_Food_Management\obj\Debug\Fast_Food_Management.OnlyUserRecord.resources
+C:\Users\Mr.Silent\Downloads\New folder\Fast_Food_Management\obj\Debug\Fast_Food_Management.Print.resources
+C:\Users\Mr.Silent\Downloads\New folder\Fast_Food_Management\obj\Debug\Fast_Food_Management.productDetail.resources
+C:\Users\Mr.Silent\Downloads\New folder\Fast_Food_Management\obj\Debug\Fast_Food_Management.ProductSuppliesBySpecificSupplier.resources
+C:\Users\Mr.Silent\Downloads\New folder\Fast_Food_Management\obj\Debug\Fast_Food_Management.SelectImageGetFrom.resources
+C:\Users\Mr.Silent\Downloads\New folder\Fast_Food_Management\obj\Debug\Fast_Food_Management.SuppliedRecord.resources
+C:\Users\Mr.Silent\Downloads\New folder\Fast_Food_Management\obj\Debug\Fast_Food_Management.SupplierDailyRecord.resources
+C:\Users\Mr.Silent\Downloads\New folder\Fast_Food_Management\obj\Debug\Fast_Food_Management.SupplierInfo.resources
+C:\Users\Mr.Silent\Downloads\New folder\Fast_Food_Management\obj\Debug\Fast_Food_Management.UserInfo.resources
+C:\Users\Mr.Silent\Downloads\New folder\Fast_Food_Management\obj\Debug\Fast_Food_Management.vbproj.GenerateResource.Cache
+C:\Users\Mr.Silent\Downloads\New folder\Fast_Food_Management\obj\Debug\Fast_Food_Management.exe.licenses
+C:\Users\Mr.Silent\Downloads\New folder\Fast_Food_Management\obj\Debug\Fast_Food_Management.TrustInfo.xml
+C:\Users\Mr.Silent\Downloads\New folder\Fast_Food_Management\obj\Debug\Fast_Food_Management.exe.manifest
+C:\Users\Mr.Silent\Downloads\New folder\Fast_Food_Management\obj\Debug\Fast_Food_Management.application
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\DevExpress.Data.v17.1.dll
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\DevExpress.Utils.v17.1.dll
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\DevExpress.XtraBars.v17.1.dll
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\DevExpress.Data.v17.1.xml
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\DevExpress.Utils.v17.1.xml
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\DevExpress.XtraBars.v17.1.xml
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\obj\Debug\Fast_Food_Management.PrintDailyRecords.resources
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\obj\Debug\Fast_Food_Management.PrintMonthlyRecords.resources
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\obj\Debug\Fast_Food_Management.PrintOnlyUserRecord.resources
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\obj\Debug\Fast_Food_Management.PrintProductDetail.resources
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\obj\Debug\Fast_Food_Management.PrintSpecificSupplierDetail.resources
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\obj\Debug\Fast_Food_Management.PrintSupplierDailyRecords.resources
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\obj\Debug\Fast_Food_Management.PrintSupplierInfo.resources
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\obj\Debug\Fast_Food_Management.PrintSupplierRecord.resources
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\obj\Debug\Fast_Food_Management.PrintUserInfo.resources
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\obj\Debug\Fast_Food_Management.getSupplierImages.resources
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\obj\Debug\Fast_Food_Management.FloatingWebBrowseOpener.resources
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\obj\Debug\Fast_Food_Management.GmailBrowser.resources
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\DevExpress.XtraLayout.v17.1.dll
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\obj\Debug\Fast_Food_Management.ForgetPassword.resources
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\obj\Debug\Fast_Food_Management.PayTMPay.resources
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\DevExpress.XtraGrid.v17.1.dll
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\DevExpress.XtraPrinting.v17.1.dll
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\DevExpress.XtraScheduler.v17.1.Core.dll
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\DevExpress.XtraScheduler.v17.1.dll
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\DevExpress.RichEdit.v17.1.Core.dll
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\DevExpress.XtraTreeList.v17.1.dll
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\DevExpress.Office.v17.1.Core.dll
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\DevExpress.XtraGrid.v17.1.xml
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\DevExpress.XtraScheduler.v17.1.xml
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\DevExpress.XtraScheduler.v17.1.Core.xml
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\DevExpress.Office.v17.1.Core.xml
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\de\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\es\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\ja\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\ru\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\de\DevExpress.XtraScheduler.v17.1.resources.dll
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\es\DevExpress.XtraScheduler.v17.1.resources.dll
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\ja\DevExpress.XtraScheduler.v17.1.resources.dll
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\ru\DevExpress.XtraScheduler.v17.1.resources.dll
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\de\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\es\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\ja\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\ru\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\obj\Debug\Fast_Food_Management.NewPayTMBarcode.resources
+C:\Users\Mr.Silent\Downloads\Fast_Food_Management\Fast_Food_Management\obj\Debug\Fast_Food_Management.Send_sms_to_customer.resources
