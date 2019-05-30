@@ -1,0 +1,603 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{82BDC9E4-62F4-4753-BA09-EF41BAD103D5}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Fast_Food_Management.My.MyApplication</StartupObject>
+    <RootNamespace>Fast_Food_Management</RootNamespace>
+    <AssemblyName>Fast_Food_Management</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\Mr.Silent\Desktop\New folder\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>true</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <CreateWebPageOnPublish>true</CreateWebPageOnPublish>
+    <WebPage>publish.htm</WebPage>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Fast_Food_Management.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <RunCodeAnalysis>false</RunCodeAnalysis>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Fast_Food_Management.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>vadapav~3.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>6A4D168D5CD36D0D5356A2245AB9DCD040779486</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>
+    </ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignAssembly>false</SignAssembly>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Accord">
+      <HintPath>..\..\SHAREit\Iris Fuel F1\file\FaceDetection\FaceDetection\FaceDetection\bin\Debug\Accord.dll</HintPath>
+    </Reference>
+    <Reference Include="Accord.Imaging">
+      <HintPath>..\..\SHAREit\Iris Fuel F1\file\FaceDetection\FaceDetection\FaceDetection\bin\Debug\Accord.Imaging.dll</HintPath>
+    </Reference>
+    <Reference Include="Accord.MachineLearning">
+      <HintPath>..\..\SHAREit\Iris Fuel F1\file\FaceDetection\FaceDetection\FaceDetection\bin\Debug\Accord.MachineLearning.dll</HintPath>
+    </Reference>
+    <Reference Include="Accord.Math">
+      <HintPath>..\..\SHAREit\Iris Fuel F1\file\FaceDetection\FaceDetection\FaceDetection\bin\Debug\Accord.Math.dll</HintPath>
+    </Reference>
+    <Reference Include="Accord.Statistics">
+      <HintPath>..\..\SHAREit\Iris Fuel F1\file\FaceDetection\FaceDetection\FaceDetection\bin\Debug\Accord.Statistics.dll</HintPath>
+    </Reference>
+    <Reference Include="Accord.Vision">
+      <HintPath>..\..\SHAREit\Iris Fuel F1\file\FaceDetection\FaceDetection\FaceDetection\bin\Debug\Accord.Vision.dll</HintPath>
+    </Reference>
+    <Reference Include="adodb, Version=7.0.3300.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>C:\Windows\assembly\GAC\ADODB\7.0.3300.0__b03f5f7f11d50a3a\adodb.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge">
+      <HintPath>..\..\SHAREit\Iris Fuel F1\file\FaceDetection\FaceDetection\FaceDetection\bin\Debug\AForge.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Imaging">
+      <HintPath>..\..\SHAREit\Iris Fuel F1\file\FaceDetection\FaceDetection\FaceDetection\bin\Debug\AForge.Imaging.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Video, Version=2.2.5.0, Culture=neutral, PublicKeyToken=cbfb6e07d173c401, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Capture vb\AForge.Video.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Video.DirectShow, Version=2.2.5.0, Culture=neutral, PublicKeyToken=61ea4348d43881b7, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Capture vb\AForge.Video.DirectShow.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Video.FFMPEG, Version=2.2.5.0, Culture=neutral, PublicKeyToken=03563089b1be05dd, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Capture vb\AForge.Video.FFMPEG.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Video.Kinect, Version=2.2.4.0, Culture=neutral, PublicKeyToken=96a9a097745e71d9, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Capture vb\AForge.Video.Kinect.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Video.VFW, Version=2.2.4.0, Culture=neutral, PublicKeyToken=a82f807c999637c8, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Capture vb\AForge.Video.VFW.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Video.Ximea, Version=2.2.4.0, Culture=neutral, PublicKeyToken=5cdcd64958730f99, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Capture vb\AForge.Video.Ximea.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu_UI_v1.52">
+      <HintPath>..\..\..\Project\Vb.net\Bunifu_UI_v1.52\Bunifu_UI_v1.52.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.Data.v17.1, Version=17.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Printing.v17.1.Core, Version=17.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Utils.v17.1, Version=17.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraBars.v17.1, Version=17.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v17.1, Version=17.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraGrid.v17.1, Version=17.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraLayout.v17.1, Version=17.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPrinting.v17.1, Version=17.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraScheduler.v17.1, Version=17.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraScheduler.v17.1.Core, Version=17.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="MaterialSkin">
+      <HintPath>C:\Users\Mr.Silent\Desktop\MaterialSkin.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="Telerik.WinControls, Version=2016.2.608.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e" />
+    <Reference Include="Telerik.WinControls.ChartView, Version=2016.2.608.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL" />
+    <Reference Include="Telerik.WinControls.GridView, Version=2016.2.608.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL" />
+    <Reference Include="Telerik.WinControls.RadDiagram, Version=2016.2.608.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL" />
+    <Reference Include="Telerik.WinControls.Themes.Office2007Black, Version=2016.2.608.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL" />
+    <Reference Include="Telerik.WinControls.Themes.Office2010Black, Version=2016.2.608.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL" />
+    <Reference Include="Telerik.WinControls.Themes.TelerikMetro, Version=2016.2.608.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL" />
+    <Reference Include="Telerik.WinControls.UI, Version=2016.2.608.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL" />
+    <Reference Include="TelerikCommon, Version=2016.2.608.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Add Item.Designer.vb">
+      <DependentUpon>Add Item.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Add Item.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddSupplier.Designer.vb">
+      <DependentUpon>AddSupplier.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AddSupplier.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BuySupply.Designer.vb">
+      <DependentUpon>BuySupply.vb</DependentUpon>
+    </Compile>
+    <Compile Include="BuySupply.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CaptureByCamera.Designer.vb">
+      <DependentUpon>CaptureByCamera.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CaptureByCamera.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ContactUs.Designer.vb">
+      <DependentUpon>ContactUs.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ContactUs.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CreateUserForm.Designer.vb">
+      <DependentUpon>CreateUserForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CreateUserForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DailyRecords.Designer.vb">
+      <DependentUpon>DailyRecords.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DailyRecords.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dashboard.Designer.vb">
+      <DependentUpon>Dashboard.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Dashboard.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DashboardAdmin.Designer.vb">
+      <DependentUpon>DashboardAdmin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DashboardAdmin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Databse.vb" />
+    <Compile Include="FloatingWebBrowseOpener.Designer.vb">
+      <DependentUpon>FloatingWebBrowseOpener.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FloatingWebBrowseOpener.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ForgetPassword.Designer.vb">
+      <DependentUpon>ForgetPassword.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ForgetPassword.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="getSupplierImages.Designer.vb">
+      <DependentUpon>getSupplierImages.vb</DependentUpon>
+    </Compile>
+    <Compile Include="getSupplierImages.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GmailBrowser.Designer.vb">
+      <DependentUpon>GmailBrowser.vb</DependentUpon>
+    </Compile>
+    <Compile Include="GmailBrowser.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.vb">
+      <DependentUpon>Login.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.vb">
+      <DependentUpon>MainForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MonthlyData.Designer.vb">
+      <DependentUpon>MonthlyData.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MonthlyData.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="NewPayTMBarcode.Designer.vb">
+      <DependentUpon>NewPayTMBarcode.vb</DependentUpon>
+    </Compile>
+    <Compile Include="NewPayTMBarcode.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OnlyUserRecord.Designer.vb">
+      <DependentUpon>OnlyUserRecord.vb</DependentUpon>
+    </Compile>
+    <Compile Include="OnlyUserRecord.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PayTMPay.Designer.vb">
+      <DependentUpon>PayTMPay.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PayTMPay.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Print.Designer.vb">
+      <DependentUpon>Print.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Print.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PrintDailyRecords.Designer.vb">
+      <DependentUpon>PrintDailyRecords.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PrintDailyRecords.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PrintMonthlyRecords.Designer.vb">
+      <DependentUpon>PrintMonthlyRecords.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PrintMonthlyRecords.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PrintOnlyUserRecord.Designer.vb">
+      <DependentUpon>PrintOnlyUserRecord.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PrintOnlyUserRecord.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PrintProductDetail.Designer.vb">
+      <DependentUpon>PrintProductDetail.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PrintProductDetail.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PrintSpecificSupplierDetail.Designer.vb">
+      <DependentUpon>PrintSpecificSupplierDetail.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PrintSpecificSupplierDetail.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PrintSupplierDailyRecords.Designer.vb">
+      <DependentUpon>PrintSupplierDailyRecords.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PrintSupplierDailyRecords.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PrintSupplierInfo.Designer.vb">
+      <DependentUpon>PrintSupplierInfo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PrintSupplierInfo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PrintSupplierRecord.Designer.vb">
+      <DependentUpon>PrintSupplierRecord.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PrintSupplierRecord.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PrintUserInfo.Designer.vb">
+      <DependentUpon>PrintUserInfo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PrintUserInfo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="productDetail.Designer.vb">
+      <DependentUpon>productDetail.vb</DependentUpon>
+    </Compile>
+    <Compile Include="productDetail.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProductSuppliesBySpecificSupplier.Designer.vb">
+      <DependentUpon>ProductSuppliesBySpecificSupplier.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ProductSuppliesBySpecificSupplier.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SelectImageGetFrom.Designer.vb">
+      <DependentUpon>SelectImageGetFrom.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SelectImageGetFrom.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Send sms to customer.Designer.vb">
+      <DependentUpon>Send sms to customer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Send sms to customer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SuppliedRecord.Designer.vb">
+      <DependentUpon>SuppliedRecord.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SuppliedRecord.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SupplierDailyRecord.Designer.vb">
+      <DependentUpon>SupplierDailyRecord.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SupplierDailyRecord.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SupplierInfo.Designer.vb">
+      <DependentUpon>SupplierInfo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SupplierInfo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserInfo.Designer.vb">
+      <DependentUpon>UserInfo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserInfo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Add Item.resx">
+      <DependentUpon>Add Item.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddSupplier.resx">
+      <DependentUpon>AddSupplier.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BuySupply.resx">
+      <DependentUpon>BuySupply.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CaptureByCamera.resx">
+      <DependentUpon>CaptureByCamera.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ContactUs.resx">
+      <DependentUpon>ContactUs.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CreateUserForm.resx">
+      <DependentUpon>CreateUserForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DailyRecords.resx">
+      <DependentUpon>DailyRecords.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dashboard.resx">
+      <DependentUpon>Dashboard.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DashboardAdmin.resx">
+      <DependentUpon>DashboardAdmin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FloatingWebBrowseOpener.resx">
+      <DependentUpon>FloatingWebBrowseOpener.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ForgetPassword.resx">
+      <DependentUpon>ForgetPassword.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="getSupplierImages.resx">
+      <DependentUpon>getSupplierImages.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GmailBrowser.resx">
+      <DependentUpon>GmailBrowser.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MonthlyData.resx">
+      <DependentUpon>MonthlyData.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\licenses.licx" />
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewPayTMBarcode.resx">
+      <DependentUpon>NewPayTMBarcode.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OnlyUserRecord.resx">
+      <DependentUpon>OnlyUserRecord.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PayTMPay.resx">
+      <DependentUpon>PayTMPay.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Print.resx">
+      <DependentUpon>Print.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PrintDailyRecords.resx">
+      <DependentUpon>PrintDailyRecords.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PrintMonthlyRecords.resx">
+      <DependentUpon>PrintMonthlyRecords.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PrintOnlyUserRecord.resx">
+      <DependentUpon>PrintOnlyUserRecord.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PrintProductDetail.resx">
+      <DependentUpon>PrintProductDetail.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PrintSpecificSupplierDetail.resx">
+      <DependentUpon>PrintSpecificSupplierDetail.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PrintSupplierDailyRecords.resx">
+      <DependentUpon>PrintSupplierDailyRecords.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PrintSupplierInfo.resx">
+      <DependentUpon>PrintSupplierInfo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PrintSupplierRecord.resx">
+      <DependentUpon>PrintSupplierRecord.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PrintUserInfo.resx">
+      <DependentUpon>PrintUserInfo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="productDetail.resx">
+      <DependentUpon>productDetail.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProductSuppliesBySpecificSupplier.resx">
+      <DependentUpon>ProductSuppliesBySpecificSupplier.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SelectImageGetFrom.resx">
+      <DependentUpon>SelectImageGetFrom.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Send sms to customer.resx">
+      <DependentUpon>Send sms to customer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SuppliedRecord.resx">
+      <DependentUpon>SuppliedRecord.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SupplierDailyRecord.resx">
+      <DependentUpon>SupplierDailyRecord.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SupplierInfo.resx">
+      <DependentUpon>SupplierInfo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserInfo.resx">
+      <DependentUpon>UserInfo.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\LoginBack.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="vadapav~3.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
