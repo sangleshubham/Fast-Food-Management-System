@@ -70,12 +70,12 @@ This Project Contain Following Forms
                         2.Print Graph (PDF Can be created)
   
 2:Login As Admin
-  Username:Admin
-  pass:Admin
+   Username:Admin
+   pass:Admin
   
-    here it will ask for turn on camera.
-  select your working camera from list and click ok
-  and again click on login.
+   here it will ask for turn on camera.
+   select your working camera from list and click ok
+   and again click on login.
   
       User Dashboard contain Following Forms:
             1.Create User
