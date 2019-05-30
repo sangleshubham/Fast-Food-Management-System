@@ -187,5 +187,5 @@ This Project Contain Following Forms
                             
                   Delete User(Button)
             10.Change Paytm Barcode
-                    Browse To Path to barcode of Barcode image and select barcode image.
+                    Browse To Path to barcode of PayTM image and select barcode image.
   
